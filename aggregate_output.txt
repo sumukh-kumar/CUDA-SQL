@@ -1,0 +1,23 @@
+--- SQL Results ---
+Maximum: 999
+Minimum: 0
+Sum: 4995000000
+Average: 499.5000000000000000
+Count: 10000000
+SQL Time taken: 1.212303 s
+
+--- GPU Results ---
+Maximum: 999
+Minimum: 0
+Sum: 4995000000
+Average: 499.5000
+Count: 10000000
+GPU Time taken: 1.5575 ms
+
+--- CPU Results ---
+Maximum: 999
+Minimum: 0
+Sum: 4995000000
+Average: 499.5000
+Count: 10000000
+CPU Time taken: 72.8900 ms
